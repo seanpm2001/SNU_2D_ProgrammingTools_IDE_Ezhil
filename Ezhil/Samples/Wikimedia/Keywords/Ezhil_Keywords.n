@@ -1,0 +1,8 @@
+1.- : PRINT statement - பதிப்பி
+2.- : BREAK statement - நிறுத்து 
+3.- : CONTINUE statement - தொடர்
+4.- : RETURN statement - பின்கொடு 
+5.- : IF-ELSEIF-ELSE-statement - ஆனால், இல்லைஆனால், இல்லை
+6.- : END-statement -  முடி
+7.- : FUNCTION-statement - நிரல்பாகம்
+8.- : WHILE-statement - வரை

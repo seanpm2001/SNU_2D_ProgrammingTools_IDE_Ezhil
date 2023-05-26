@@ -1,0 +1,3 @@
+@( CONDITION ) வரை
+    #LOOP BODY
+முடி

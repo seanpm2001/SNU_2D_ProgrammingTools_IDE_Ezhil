@@ -1,0 +1,4 @@
+நிரல்பாகம் [FUNCTION_NAME] ( ARGLIST )
+  [FUNCTION BODY]
+முடி
+

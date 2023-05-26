@@ -1,0 +1,5 @@
+@( CONDITION ) ஆனால்
+   #True branch
+இல்லை
+   #False branch
+முடி
